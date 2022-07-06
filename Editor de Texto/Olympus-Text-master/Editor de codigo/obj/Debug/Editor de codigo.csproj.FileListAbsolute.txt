@@ -1,0 +1,10 @@
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\bin\Debug\Editor de codigo.exe.config
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\bin\Debug\Editor de codigo.exe
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\bin\Debug\Editor de codigo.pdb
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.AssemblyReference.cache
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor_de_codigo.Form1.resources
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor_de_codigo.Properties.Resources.resources
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.GenerateResource.cache
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.CoreCompileInputs.cache
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.exe
+C:\Users\lisan\OneDrive\Desktop\Editor\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.pdb
